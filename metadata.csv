@@ -12,8 +12,8 @@ Version.Major,1
 Version.Minor,2
 Version.Patch,1
 Created,2019-04-03T21:13:57
-Modified,2021-02-25T02:56:29
-Giturl,https://github.com/Metatab/metatab-packages.git
+Modified,2022-06-17T17:10:59
+Giturl,https://github.com/metatab-packages/cde.ca.gov-absenteeism.git
 ""
 Section,Contacts,Email,Organization,Url,
 Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com,
